@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Customer alice = new Customer("Alice", "alice@gmail.com", "5554443322", LocalDate.of(2000, 1, 1));
+        Customer alice = new Customer("Alice", "ali@cegmail.com", "+905554443322", LocalDate.of(2000, 1, 1));
 
 
         /**
@@ -28,12 +28,23 @@ public class Main {
         System.out.println(oop.isUygun(alice));
 
         //FP
-        boolean isUygun = CustomerRegistrationValidatorFP
+        ValidationResult validationResult = CustomerValidation
                 .isEmailValid()
-                .andThen(CustomerRegistrationValidatorFP.isPhoneNumberValid())
-                .andThen(CustomerRegistrationValidatorFP.isAdultValid())
-                .isUygun(alice);
+                .andThen(CustomerValidation.isPhoneNumberValid())
+                .andThen(CustomerValidation.isAdultValid())
+                .apply(alice);
 
-        System.out.println(isUygun);
+        validationResult.getReason().ifPresent(System.out::println);
+
+        //ILERIDE NAME VALIDATION I EKLENIRSE DIYE , OPEN CLOSED PRINCIPLE A GORE EXTENDS YAPILABILIR.
+        ValidationResult nameValidationResult = CustomerValidation
+                .isEmailValid()
+                .andThen(CustomerValidation.isPhoneNumberValid())
+                .andThen(CustomerValidation.isAdultValid())
+                .andThen(CustomerNameValidation.isNameValid())
+                .apply(alice);
+
+        nameValidationResult.getReason().ifPresent(System.out::println);
+
     }
 }
