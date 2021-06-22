@@ -19,6 +19,10 @@ public interface CustomerValidation extends Function<Customer, ValidationResult>
         return holds(customer -> Period.between(customer.getDob(), LocalDate.now()).getYears() > 18 , "IS_NOT_AN_ADULT");
     }
 
+    static CustomerValidation isNameValid() {
+        return holds(customer -> customer.getName().equals("SAID"), "NAME_NOT_VALID");
+    }
+
     static CustomerValidation holds(Predicate<Customer> p, String message){
         return customer -> p.test(customer) ? ValidationResult.valid() : ValidationResult.invalid(message);
     }
