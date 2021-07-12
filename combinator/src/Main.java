@@ -7,7 +7,7 @@ public class Main {
 
         Customer alice = new Customer("Alice", "ali@cegmail.com", "+905554443322", LocalDate.of(2000, 1, 1));
 
-        //PROBLEM ISTENEN VALIDDATION LARI COMBINE EDEMEMEK RUNTIME ESNASINDA, OPEN CLOSE PRINCIPLE A UYMUYOR - CustomerRegistrationValidatorOOP
+        //PROBLEM ISTENEN VALIDDATION LARI COMBINE EDEMEMEK , OPEN CLOSE PRINCIPLE A UYMUYOR - CustomerRegistrationValidatorOOP
         //OOP
         CustomerRegistrationValidatorOOP oop = new CustomerRegistrationValidatorOOP();
 
