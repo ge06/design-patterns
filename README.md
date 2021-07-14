@@ -14,6 +14,9 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
 <li>
     Tabiki highly cohesive ve loosely coupling  için.Bu sayede kodlar daha okunaklı ve maintable oluyor.
     </li>
+    <li>
+    Yazılım muhabbetlerinde bahsedebilirsin, bilgili derler.
+    </li>
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
