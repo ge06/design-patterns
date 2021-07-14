@@ -1,4 +1,4 @@
-![] (https://user-images.githubusercontent.com/4989034/125558462-1ad0d7ee-4b49-4403-9ec4-3b6b1f59834e.png)
+<img> (https://user-images.githubusercontent.com/4989034/125558462-1ad0d7ee-4b49-4403-9ec4-3b6b1f59834e.png)</img>
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
