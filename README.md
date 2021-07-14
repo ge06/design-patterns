@@ -10,7 +10,7 @@
     Patterns are general solutions to recurring problems. They also have the benefit of being well tested by lots of developers. So, when you see a need for one, you can sleep well knowing many developers have been there before and solved the problem using similar techniques.
     </p>
 
-Doğada sıklıkla kullanılan patternlar(memeliler,kar tanesi, leopar desenli elbise, keçi yolu, hilal taktiği, ayasofya ), yazılım olaylarında ise The GOF ile iyice popüleritesini artırmıştır.Kitap ismi:  Design Patterns: Elements of Reusable Object-Oriented Software.Referans kaynak olarak bunu kullandık
+Doğada sıklıkla kullanılan patternlar(memeliler,kar tanesi, leopar desenli elbise, keçi yolu, hilal taktiği, ayasofya, trafikte seyir halindeyken sinyal vermeden aniden önünüze kıran araç için; düşünmeden frene basmanız ve sözel olarak iyi dileklerinizi sunmmanız ), yazılım olaylarında ise The GOF ile iyice popüleritesini artırmıştır.Kitap ismi:  Design Patterns: Elements of Reusable Object-Oriented Software.Referans kaynak olarak bunu kullandık
 
 ![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)
 
