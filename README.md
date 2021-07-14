@@ -15,8 +15,15 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
     Tabiki highly cohesive ve loosely coupling  için.Bu sayede kodlar daha okunaklı ve maintable oluyor.
     </li>
     <li>
-    Yazılım muhabbetlerinde bahsedebilirsin, bilgili derler.
+    Ortak bir dil yaratır.İngilizce gibi.Yazılım muhabbetlerinde bahsedebilirsin, bilgili gözükmeyede yarayabiliyor.
     </li>
+    
+<h3> Mevzu Bahis Patternlar için Patternlar </h3>
+<ul>
+<li>1.Karşılan Problem</li>
+    <li>2.Çözüm</li>
+    <li>3.Sonuç</li>
+</ul>
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
