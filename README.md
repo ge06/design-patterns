@@ -27,10 +27,9 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
 <p>
     Patternlarda öncellikle problemin tanımı ve bu probleme getirilen çözüm anlatılır.Çözüm için örnekler verilsede concrete bir dizayn verilmez.Patternlar daha çok bir guide veya template olarak düşünebiliriz.Çözüm beraberinde bir takım trade-off lar ortaya çıkarır.Const and benefit göz önüne almak gerekir.
  </p>   
-    <h3>Ne zaman uzak durmalıyız, Kimler uzak durmalı ?</h3>
-   ![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg
+ 
    ![](https://i.pinimg.com/originals/f3/d2/c2/f3d2c2af63693822a8cbdb745f54e4f2.jpg)
-   
+    <h3>Ne zaman uzak durmalıyız, Kimler uzak durmalı ?</h3>  
    <ul>
     <li>Öğrenme aşamasında design patternları yazdığımız kodlardan uzak tutmalıyız.</li>
     <li>Stickerli macbooklarını satan yazılımcılar kullanmalı</li>
