@@ -45,8 +45,10 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
         <li>Structural Patterns</li>
         <li>Behavioral Patterns </li>
     </ul>
-![](https://image.slideserve.com/770720/design-pattern-space-l.jpg)
  </div>
+
+![](https://image.slideserve.com/770720/design-pattern-space-l.jpg)
+ 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
     Patterns are general solutions to recurring problems. They also have the benefit of being well tested by lots of developers. So, when you see a need for one, you can sleep well knowing many developers have been there before and solved the problem using similar techniques.
