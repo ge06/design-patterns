@@ -54,8 +54,7 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
 ![](https://image.slideserve.com/770720/design-pattern-space-l.jpg)
  
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
-  
-    <ul>
+<ul>
 <li>
             Creational Patterns
 </li>
@@ -66,7 +65,6 @@ Creational patterns provide the capability to create objects based on a required
 </li>
 
 </ol>
-d
 
 <hr/>
 <li>
