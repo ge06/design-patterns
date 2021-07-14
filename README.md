@@ -33,7 +33,7 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise, ke�
  </p>   
  
    ![](https://i.pinimg.com/originals/f3/d2/c2/f3d2c2af63693822a8cbdb745f54e4f2.jpg)
-    <h3>Ne zaman uzak durmalıyız, Kimler uzak durmalı ?</h3>  
+    <h3>Ne zaman uzak durmalıyız, Kimler uzak durmalı ? Pattern Depresyon</h3>  
    <ul>
     <li>Öğrenme aşamasında design patternları yazdığımız kodlardan uzak tutmalıyız.Getter setter varken lütfen kullanma</li>
     <li>Stickerli macbooklarını satan yazılımcılar kullanmalı</li>
