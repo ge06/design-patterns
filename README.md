@@ -37,8 +37,16 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
     <li>Over engineeringé uzak durmak için en önemli sebeplerden aman.</li>
     </ul>
     
+ <div>
     <h3>Sınıflandırma</h3>
+    Design patternlar 3 ana kategori altında konumlandırılmıştır.
+    <ul>
+        <li>Creational Patterns</li>
+        <li>Structural Patterns</li>
+        <li>Behavioral Patterns </li>
 
+        </ul>
+ </div>
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
     Patterns are general solutions to recurring problems. They also have the benefit of being well tested by lots of developers. So, when you see a need for one, you can sleep well knowing many developers have been there before and solved the problem using similar techniques.
