@@ -35,6 +35,8 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
     <li>Stickerli macbooklarını satan yazılımcılar kullanmalı</li>
     <li>Over engineeringé uzak durmak için en önemli sebeplerden aman</li>
     </ul>
+    
+    <h3>Sınıflandırma<h3>
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
