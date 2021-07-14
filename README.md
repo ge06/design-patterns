@@ -6,6 +6,10 @@
     </b>
 </blockquote>
 
+  <p >Said said:
+    Patterns are general solutions to recurring problems. They also have the benefit of being well tested by lots of developers. So, when you see a need for one, you can sleep well knowing many developers have been there before and solved the problem using similar techniques.
+    </p>
+
 Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), yazılım olaylarında ise The GOF ile iyice popüleritesini artırmıştır.Kitap ismi:  Design Patterns: Elements of Reusable Object-Oriented Software.Referans kaynak olarak bunu kullandık
 
 ![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)
@@ -50,10 +54,7 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
 ![](https://image.slideserve.com/770720/design-pattern-space-l.jpg)
  
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
-    <p >
-    Patterns are general solutions to recurring problems. They also have the benefit of being well tested by lots of developers. So, when you see a need for one, you can sleep well knowing many developers have been there before and solved the problem using similar techniques.
-    Design patterns had originally been categorized into the following 3 sub-classifications based on kind of problem they solve.
-    </p>
+  
     <ul>
 <li>
             Creational Patterns
