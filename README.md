@@ -6,7 +6,7 @@
     </b>
 </blockquote>
 
-Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), yazılım olaylarında ise The GOF ile iyice popüleritesini artırmıştır.Kitap ismi:  Design Patterns: Elements of Reusable Object-Oriented Software.Bu kadar
+Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), yazılım olaylarında ise The GOF ile iyice popüleritesini artırmıştır.Kitap ismi:  Design Patterns: Elements of Reusable Object-Oriented Software.Referans kaynak olarak bunu kullandık
 
 ![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)
 
@@ -33,10 +33,11 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
    <ul>
     <li>Öğrenme aşamasında design patternları yazdığımız kodlardan uzak tutmalıyız.</li>
     <li>Stickerli macbooklarını satan yazılımcılar kullanmalı</li>
-    <li>Over engineeringé uzak durmak için en önemli sebeplerden aman</li>
+    <li>Nasada çalışan arkadaşlar</li>
+    <li>Over engineeringé uzak durmak için en önemli sebeplerden aman.</li>
     </ul>
     
-    <h3>Sınıflandırma<h3>
+    <h3>Sınıflandırma</h3>
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
