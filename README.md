@@ -1,4 +1,4 @@
-![](https://w7.pngwing.com/pngs/1009/610/png-transparent-tiger-animal-wild-animals-tiger.png)
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
