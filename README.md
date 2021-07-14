@@ -15,7 +15,7 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
     highly cohesive ve loosely couplinge sağladğığı fayda  için.Bu sayede kodlar daha okunaklı ve maintable oluyor.
     </li>
     <li>
-    Ortak bir dil yaratır.İngilizce gibi.Yazılım muhabbetlerinde bahsedebilirsin, bilgili gözükmeyede yarayabiliyor.
+    Ortak bir dil yaratır. Mülakatlarda merhaba yerine yerine singleton diyebilirsiniz.Yazılım muhabbetlerinde bahsedebilirsin, bilgili gözükmeyede yarayabiliyor.
     </li>
     
 <h3> Mevzu Bahis Patternlar için Patternlar </h3>
