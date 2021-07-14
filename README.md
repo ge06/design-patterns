@@ -10,9 +10,9 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
 
 ![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)
 
-<h3>Neden Öğrenmeye Çalışıyoruz </h3>
+<h3>Neden Öğrenmeye Çalışıyoruz ?</h3>
 <li>
-    
+    Tabiki highly cohesive ve loosely coupling  için.Bu sayede kodlar daha okunaklı ve maintable oluyor.
     </li>
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
