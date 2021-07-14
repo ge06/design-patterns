@@ -8,8 +8,7 @@
 
 Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), yazılım işlerine The GoF ile dahil olmuştur.Kitap ismi:  Design Patterns: Elements of Reusable Object-Oriented Software.Bu kadar
 
-
-<center>![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)</center>
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/A1E1/production/_104914414_fb6ec4da-cca2-4e16-8e9a-a561c099959a.jpg)
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
