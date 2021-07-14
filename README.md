@@ -44,8 +44,8 @@ Doğada sıklıkla kullanılan patternlar(kar tanesi, leopar desenli elbise ), y
         <li>Creational Patterns</li>
         <li>Structural Patterns</li>
         <li>Behavioral Patterns </li>
-
-        </ul>
+    </ul>
+    
  </div>
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
