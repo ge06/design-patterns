@@ -1,3 +1,4 @@
+![] hrhttps://user-images.githubusercontent.com/4989034/125558462-1ad0d7ee-4b49-4403-9ec4-3b6b1f59834e.png
 
 <div style="font-size: 18px;font-family: 'Lohit Devanagari'">
     <p >
@@ -15,7 +16,7 @@ Creational patterns provide the capability to create objects based on a required
 </li>
 
 </ol>
-
+d
 
 <hr/>
 <li>
