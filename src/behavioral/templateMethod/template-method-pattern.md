@@ -81,3 +81,5 @@ https://refactoring.guru/design-patterns/template-method
 <h2> Örnek Senaryo Açıklaması </h2>
 Senaryo: Hediye satış sitesi için, online hediye tasarlama modülü senaryosu.
 
+![](/image/templateMethod.png)
+
