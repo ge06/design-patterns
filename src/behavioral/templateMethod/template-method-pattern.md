@@ -81,3 +81,5 @@ https://refactoring.guru/design-patterns/template-method
 <h2> Örnek Senaryo Açıklaması </h2>
 Senaryo:  online hediye tasarlama
 
+![](/image/templateMethod.png)
+
