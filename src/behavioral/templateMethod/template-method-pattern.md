@@ -44,7 +44,7 @@ Eksileri ;
 
 
 Template method bir çok yapıda kullanılmaktadır.Java Java core libraries, for example by java.util.AbstractList, or java.util.AbstractSet. 
-For instance, Abstract Container provides a skeletal implementation of the Container interface.
+For instance, Abstract List provides a skeletal implementation of the List interface.
 (bknz: https://www.baeldung.com/java-template-method-pattern)
 
 <ul>
