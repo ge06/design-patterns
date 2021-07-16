@@ -1,0 +1,8 @@
+package com.designPatterns.strategyPattern.ornek2.strategy.maasHesaplama;
+
+public class MuhendisMaasHesap implements MaasHesap {
+    @Override
+    public int maasHesapla() {
+        return 2500;
+    }
+}
