@@ -48,6 +48,4 @@ CoR'da birbirinden bağımsız işlem yapan  zincirler vardır.İsterse bir alt 
 </ul>
 
 <h2> Örnek Senaryo Açıklaması </h2>
-Login kontrol.
-
-![](/image/templateMethod.png)
+Login kontrol. Email kontrolü yapıldıktan sonra password kontrolüne , password kontrolünde sonra kullanıcı kontrolu yapılır. Herhangi bir aşamada kontrolün başarısız olması işlemin sonlanmasına anlamına gelir ve bir sonraki zincire geçilmez.
